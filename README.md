@@ -2,8 +2,8 @@
 
 In this project the intent was to build a landing page that upon the end users request would scrape useful data regarding Mars from five different sources. Those sources scraped are as follows:
 
-### NASA Mars News, to grab the latest headline and exerpt
-### JPL Mars Space Images, to grab a featured image
+#### NASA Mars News, to grab the latest headline and exerpt
+#### JPL Mars Space Images, to grab a featured image
 ### Mars Weather, to grab the most recent temperature readings
 ### Mars Facts, random facts and figures about Mars
 ### Mars Hemispheres, for images and names of the Mars hemispheres
